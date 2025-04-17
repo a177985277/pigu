@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <category-id>21513</category-id>
+    <category-name><![CDATA[Furniture legs and feet]]></category-name>
+    <title><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></title>
+    <title-ru><![CDATA[]]></title-ru>
+    <title-lv><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></title-lv>
+    <title-ee><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></title-ee>
+    <title-fi><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></title-fi>
+    <long-description><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></long-description>
+    <long-description-ru><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></long-description-ru>
+    <long-description-lv><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></long-description-lv>
+    <long-description-ee><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></long-description-ee>
+    <long-description-fi><![CDATA[kapsaugos, silikono dangteliai, skirti apsaugoti grindis dugno baldus, ne slydimo apsaugos pagalv]]></long-description-fi>
+    <colours>
+      <colour>
+        <images>
+          <image>
+            <url>https://img.fruugo.com/product/0/91/1749910_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/5/85/174355_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/5/85/1744855_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/2/96/1743962_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/3/92/1743923_max.jpg</url>
+          </image>
+        </images>
+        <modifications>
+          <modification>
+            <modification-title></modification-title>
+            <weight>0.2</weight>
+            <length>0.3</length>
+            <height>0.15</height>
+            <width>0.05</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[3912568755223]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[3912568755223]]></supplier-code>
+              <manufacturer-code><![CDATA[3912568755223]]></manufacturer-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+</products>
